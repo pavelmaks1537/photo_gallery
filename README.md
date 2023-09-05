@@ -7,7 +7,7 @@
 **Основные задачи:**
 
 * Подумать над структурой проекта (файлы и папки)
-* Спаристь данные с сайта cameralabs (python, requests, bs4)
+* Спарсить данные с сайта cameralabs (python, requests, bs4)
 * Сверстать html старницу по отображению одной фотографии (html, css)
 * На основе html-кода написать python скрипт для отображения 100 фотографий а не одной (python)
 
@@ -17,6 +17,14 @@
 * Использовать комментарии в коде
 * Использовать функции, классы
 * Написать инструкцию по запуску проекта
+
+**Что почитать:**
+
+https://habr.com/ru/articles/544828/
+
+https://docs-python.ru/packages/paket-beautifulsoup4-python/
+
+https://python-scripts.com/beautifulsoup-html-parsing?ysclid=lm61pnuzak907914249
 
 ### Пример страницы:
 ![2023-09-01_10-07-09](https://github.com/pavelmaks1537/photo_gallery/assets/143784094/53cfd123-37dc-4ee0-95fe-e8c2ae5f00cf)
